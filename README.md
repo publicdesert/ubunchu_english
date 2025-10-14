@@ -1,18 +1,8 @@
-<div align="center">
+# Ubunchu Fan Translations
 
-  <h3 align="center">Ubunchu Fan Translations</h3>
+Ubunchu is a manga about a high school's "Sysadmin Club" created by Hiroshi Seo. It was published between 2008 and 2013 by Ubuntu Magazine Japan.
 
-  <p align="center">
-    English fan translations for several chapters of the Ubunchu manga
-
-  </p>
-</div>
-
-## About
-
-Ubunchu is a manga about a high school's "Sysadmin Club" created by Hiroshi Seo. It was published between 2008 and 2013 by Ubuntu Magazine Japan. Most chapters were released under open licenses, which allowed for community translation projects.
-
-This repository contains English-language fan translations and typeset versions of selected chapters, created for non-commercial purposes. Where possible, links to official sources are provided.
+All chapters up to and including chapter 14 were released under a Creative Commons license, which allowed for community translation projects. This repository contains the English-language fan translations which I have worked on in same capacity (see attribution). For chapter 15 and the Specials I received permission from Hiroshi Seo, the original manga artist, to publish full english translations via email. The translations are released for non-commercial purposes. Links to official sources are provided below.
 
 ### My releases
 | Chapter | Links |
